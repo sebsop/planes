@@ -79,7 +79,7 @@ This was both a **technical challenge** and a **great learning experience**.
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/dosqas/planes.git
+   git clone https://github.com/sebsop/planes.git
    cd planes
    ```
 
